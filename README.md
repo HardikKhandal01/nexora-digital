@@ -1,6 +1,9 @@
 # Nexora Digital
 
-A modern business landing page designed for digital marketing, website development and AI automation agencies.
+🚀 Modern Digital Marketing, Website Development & AI Automation Agency Landing Page
+
+Live Demo:
+https://hardikkhandal01.github.io/nexora-digital/
 
 ---
 
@@ -37,13 +40,9 @@ https://yourusername.github.io/nexora-digital/
 
 ---
 
-## Screenshots
+## Preview
 
-Add screenshots inside assets folder.
-
-Example:
-
-assets/homepage.png
+![Nexora Digital Preview](assets/homepage.png)
 
 ---
 
