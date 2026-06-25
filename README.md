@@ -32,10 +32,6 @@ https://hardikkhandal01.github.io/nexora-digital/
 
 ## Live Demo
 
-Add GitHub Pages URL here after deployment.
-
-Example:
-
 https://yourusername.github.io/nexora-digital/
 
 ---
