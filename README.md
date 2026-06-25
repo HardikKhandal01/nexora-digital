@@ -40,6 +40,18 @@ https://yourusername.github.io/nexora-digital/
 
 ---
 
+## Project Highlights
+
+- Built using semantic HTML5
+- Responsive mobile-first design
+- Glassmorphism UI implementation
+- Animated statistics counters
+- Smooth scrolling navigation
+- SEO-friendly structure
+- GitHub Pages deployment
+
+---
+
 ## Preview
 
 ![Nexora Digital Preview](assets/homepage.png)
